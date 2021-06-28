@@ -617,6 +617,7 @@ section {
 --------------------------------------------------------------*/
 .featured {
   position: relative;
+  margin-top: 100px;
   z-index: 2;
 }
 
